@@ -1,6 +1,6 @@
-# Instructlab taxonomy extension
+# InstructLab taxonomy extension
 
-To extend instrutlab taxonomy knowledge user should do the following steps:
+To extend InstructLab taxonomy knowledge user should do the following steps:
 - Clone a pre-created github repository into a temporary repository (will be used to store Markdown files).
 - Convert given PDF files into Markdown (MD) format and store them in the directory of the cloned git repository.
 - Push the Markdown files into the git repository.
